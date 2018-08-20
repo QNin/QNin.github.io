@@ -1,0 +1,18 @@
+h1 {
+	color: grey;
+	background-color = yellow;
+	border = 1px solid black;
+}
+
+header {
+	background-color : yellow;
+}
+
+div {
+	background-color : grey;
+}
+
+.head-ribbon{
+	display:flex;
+	justify-content:space-around;
+}
